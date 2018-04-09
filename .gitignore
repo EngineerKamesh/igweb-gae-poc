@@ -1,0 +1,15 @@
+*~
+*.swp
+*.swo
+*.tmp
+*.out
+.DS_Store
+*.js
+*.js.map
+cogimports.*
+*.rdb
+*.tmplbundle
+builds
+scripts
+igweb.min.css
+client.min.js
